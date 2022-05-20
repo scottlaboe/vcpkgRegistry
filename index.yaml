@@ -1,4 +1,4 @@
-items: [ compilers/arm/gcc/gcc-2022-02.json ]
+items: [ compilers/arm/gcc/gcc-2022.02.json ]
 indexes:
   IdentityKey/info.id:
     keys:
