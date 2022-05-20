@@ -1,4 +1,4 @@
-items: [ compilers/arm/gcc/gcc-2022.02.0.json ]
+items: [ compilers/arm/gcc/gcc-2022.2.0.json ]
 indexes:
   IdentityKey/info.id:
     keys:
@@ -12,7 +12,7 @@ indexes:
       gcc: [ 0 ]
   SemverKey/info.version:
     keys:
-      2022.02.0: [ 0 ]
+      2022.2.0: [ 0 ]
   StringKey/info.summary:
     keys:
       GCC compiler for ARM CPUs.: [ 0 ]
