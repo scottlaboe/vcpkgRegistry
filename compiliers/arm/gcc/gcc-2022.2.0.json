@@ -6,7 +6,8 @@
       "summary": "GCC compiler for ARM CPUs."
     },
     "contacts": {
-      "Scott Laboe": {
+      "Garrett Serack": {
+        "email": "garretts@microsoft.com",
         "role": "publisher"
       }
     },

@@ -1,3 +1,4 @@
+# MANIFEST-INDEX
 items: [ compilers/arm/gcc/gcc-2022.2.0.json ]
 indexes:
   IdentityKey/info.id:
