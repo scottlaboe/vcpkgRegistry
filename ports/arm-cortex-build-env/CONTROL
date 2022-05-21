@@ -1,0 +1,4 @@
+Source: arm-cortex-build-env
+Version: 0
+Description: Install neccesary host build tools to build arm cortex projects
+Supports: x86 & windows
